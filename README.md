@@ -1,4 +1,4 @@
 Targus-interface
 ================
 
-Targus universal kb arduino interface
+Targus universal wireless keyboard arduino interface
